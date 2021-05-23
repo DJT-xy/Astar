@@ -1,3 +1,6 @@
 # Astar
 Astar visualization, pygame, SDU
-Date: 5.23
+
+Turning cost: 6
+
+Go straight cost: 1
